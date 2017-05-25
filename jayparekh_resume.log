@@ -14,7 +14,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \c@subsection=\count81
 \c@subsubsection=\count82
 \c@paragraph=\count83
-\c@subparagraph=\count83
+\c@subparagraph=\count84
 \c@figure=\count85
 \c@table=\count86
 \abovecaptionskip=\skip41
